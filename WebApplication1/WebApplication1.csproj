@@ -50,6 +50,7 @@
     <Reference Include="System.EnterpriseServices" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Database1.mdf" />
     <Content Include="find_reporter_by_news.aspx" />
     <Content Include="insert_news.aspx" />
     <Content Include="list_news_by_id.aspx" />
